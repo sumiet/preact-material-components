@@ -41,8 +41,11 @@ jspm_packages
 
 
 # Custom files
-webpack.config.js
-copy-css.js
+webpack.config.umd.js
+componentsList.js
+copyCss.js
 *.yml
 .eslintrc
+.babelrc
 sample
+*.jsx
